@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media3.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47l1y95w91r80k7bsmdb0vby2u2i2crnr3ig7h5it8&rid=giphy.gif&ct=g"/>
+<img src="./mycat.gif"/>
 
 <!--
 **Keyvanhardani/Keyvanhardani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
