@@ -2,7 +2,7 @@
 
 
 <h2>GitHub Stats</h2>
-<p><img src="https://thehustle.co/wp-content/uploads/2021/01/boston_dynamics_dancing.gif" style="width: 194px;"/></p>
+<p><img src=[./robot.gif]" style="width: 194px;"/></p>
 
 <!--
 **Keyvanhardani/Keyvanhardani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
