@@ -12,6 +12,16 @@
 
 Hi there! I'm Keyvan, a specialist in AI and Machine Learning with a passion for pushing the boundaries in Robotics and Automotive Cybersecurity. With a strong foundation in Python, C, C#, PHP, and Node.js, I thrive on creating innovative solutions to complex problems.
 
+</td>
+<td>
+
+![Cyberpunk Profile](https://github.com/Keyvanhardani/Keyvanhardani/raw/main/Labor.webp)
+
+</td>
+
+</tr>
+</table>
+
 **My Work**
 
 - 🔭 **Innovating in Robotics**: Spearheading KiKi-ROS, an ambitious project that melds AI with robotics to automate and enhance precision in complex tasks, driving forward the frontier of robotics and setting new benchmarks in the industry.
@@ -27,12 +37,4 @@ Hi there! I'm Keyvan, a specialist in AI and Machine Learning with a passion for
 
 *Together, let's forge the path to a technologically empowered and secure future.*
 
-</td>
-<td>
-
-![Cyberpunk Profile](https://github.com/Keyvanhardani/Keyvanhardani/raw/main/Labor.webp)
-
-</td>
-</tr>
-</table>
 
