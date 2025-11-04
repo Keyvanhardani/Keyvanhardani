@@ -32,4 +32,4 @@ focusing on AI security, autonomous perception systems, and neuromorphic computi
   <img alt="github contribution grid snake animation" src="https://github.com/Keyvanhardani/Keyvanhardani/blob/main/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Keyvanhardani&row=1&column=6&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=Keyvanhardani)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Keyvanhardani&row=1&column=6&theme=tokyonight)](https://github-profile-trophy.vercel.app/?username=Keyvanhardani)
