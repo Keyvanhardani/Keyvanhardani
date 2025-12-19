@@ -1,6 +1,6 @@
 ### 👋 Hi there~
 
-Hi, I'm Keyvan Hardani — a Researcher and AI Systems Engineer from Germany 🇩🇪  
+Hi, I'm Keyvan Hardani, Researcher and AI Systems Engineer from Germany 🇩🇪  
 I hold a Master of Science in Cybersecurity from the University of Applied Sciences HDBW Munich.  
 My work bridges AI security, autonomous perception systems, and neuromorphic computing.
 
