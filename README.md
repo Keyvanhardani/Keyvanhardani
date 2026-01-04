@@ -1,5 +1,3 @@
-### 👋 Hi there~
-
 ### Keyvan Hardani
 
 **AI Security Researcher & Systems Engineer** · Germany 🇩🇪
