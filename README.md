@@ -20,7 +20,7 @@ M.Sc. Cybersecurity, HDBW Munich · IEEE Member
 
 **Stack**
 
-`Python` `C++` `PyTorch` `TensorFlow` `ONNX` `Docker` `LangChain`
+`Python` `Go` `C++` `PyTorch` `TensorFlow` `ONNX` `Docker` `LangChain`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Keyvanhardani/Keyvanhardani/blob/main/output/github-contribution-grid-snake-dark.svg">
