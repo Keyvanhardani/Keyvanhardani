@@ -1,23 +1,31 @@
-### Keyvan Hardani
+### Keyvan H.
 
-**AI Security Researcher & Systems Engineer** · Germany 🇩🇪
+**Doctoral Researcher (PhD) | AI for Engineering Systems & Intelligent Document Processing** · Germany 🇩🇪
 
-M.Sc. Cybersecurity, HDBW Munich · IEEE Member
+🎓 M.Sc. Cybersecurity, HDBW Munich · IEEE Member
 
 ---
 
 **Research Focus**
 
-- Adversarial AI & Model Security
-- Neuromorphic Vision Systems (SNNs, Event Cameras)
-- Autonomous Perception & Automotive AI
-- Privacy-Preserving Machine Learning
+- Intelligent Document Processing (OCR, Layout Analysis, Vision-Language Models)
+- AI for Engineering & Infrastructure Systems (technical documents, maps, plans)
+- Scalable AI Systems & Cloud Architectures
+- Privacy-aware & Trustworthy Machine Learning (GDPR-compliant pipelines)
+- Robustness & Security of Applied Machine Learning
 
 **Current Projects**
 
-- [German-OCR](https://github.com/Keyvanhardani/german-ocr) — Local Vision-Language OCR
-- [German-Privacy-Shield](https://github.com/Keyvanhardani/german-privacy-shield) — GDPR-compliant PII Redaction
+- [German-OCR](https://github.com/Keyvanhardani/german-ocr) — Local vision-language OCR for German documents  
+- [German-Privacy-Shield](https://github.com/Keyvanhardani/german-privacy-shield) — GDPR-compliant PII detection & redaction  
+- [German-TTS](https://german-tts.de) — German text-to-speech system *(WIP / public release soon)*  
+- [Deutschland-Assistent](https://deutschland-assistent.de) — AI assistant for German document & workflow automation *(coming soon)*
+
 
 **Stack**
 
-`Python` `Go` `C++` `PyTorch` `TensorFlow` `ONNX` `Docker` `LangChain` `CNN` `NLP` `TCN` 
+Python · C++ · Go · SQL  
+PyTorch · TensorFlow · ONNX  
+Docker · FastAPI · LangChain  
+OCR · NLP · Vision-Language Models · RAG  
+Cloud · CI/CD · MLOps
