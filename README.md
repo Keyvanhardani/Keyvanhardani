@@ -1,52 +1,104 @@
 ### Keyvan Hardani
 
-**Lead AI Engineer · Doctoral Researcher (PhD)**
-🇩🇪 Munich, Germany · IEEE Member
+**Doctoral Researcher (PhD) | AI for Engineering Systems & Intelligent Security Systems**
+Munich, Germany · IEEE Member
 
-**TU Darmstadt** — PhD: AI for Engineering Systems & Intelligent Document Processing
+**TU Darmstadt** — PhD: AI for Engineering Systems & Intelligent Security Systems
 **ZM-I Group** — Lead AI Engineer (AI-driven platforms for engineering & industrial applications)
 M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
+
+<p>
+  <img alt="Iran (Schir-o-Chorschid)"
+       src="https://upload.wikimedia.org/wikipedia/commons/f/fd/State_flag_of_Iran_%281964%E2%80%931980%29.svg"
+       width="52" height="30" />
+  &nbsp;
+  <sub><img alt="Israel"
+       src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
+       width="48" height="35" /></sub>
+  &nbsp;
+  <img alt="USA"
+       src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+       width="57" height="30" />
+  &nbsp;
+  <img alt="Deutschland"
+       src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+       width="50" height="30" />
+  &nbsp;
+  <img alt="Österreich"
+       src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+       width="50" height="30" />
+</p>
 
 ---
 
 **Research Focus**
 
-- Intelligent Document Processing (OCR, Layout Analysis, Vision-Language Models)
-- AI for Engineering & Infrastructure Systems (technical documents, maps, plans)
-- Agentic AI Systems & LLM-based Automation
-- Privacy-aware & Trustworthy Machine Learning (GDPR-compliant pipelines)
-- Robustness & Security of Applied Machine Learning
+- **Agentic AI & Autonomous Systems** — multi-agent orchestration, tool-using LLMs, planner/executor architectures
+- **AI Automation** — end-to-end workflow automation, document → decision pipelines, RPA × LLM
+- **Intelligent Security Systems** — ML for threat detection, LLM red-teaming, adversarial robustness
+- **Intelligent Document Processing** — OCR, layout analysis, Vision-Language Models
+- **AI for Engineering & Infrastructure** — technical documents, maps, plans, industrial data
+- **Privacy-aware & Trustworthy ML** — GDPR-compliant pipelines, on-prem inference, PII redaction
 
 ---
 
-### 🆕 Recently shipped — **German-OCR-3 v0.2** (Apr 2026)
+### 🆕 Recent Highlights
 
-Deutsche Vision-OCR. Kompakt (1.0 / 2.7 GB), lokal lauffähig, Apache 2.0.
-Auf 200+ echten anonymisierten deutschen Rechnungen: **100 % gültiges JSON · 95 % Sender korrekt · 0 % Halluzination**.
+**🛡️ Mythos Research Edition v2.0** — outside-in replication of Anthropic's *Mythos Preview / Project Glasswing*
+- 8-phase pipeline (was 7) — build-sandbox · adversarial self-challenge · cross-session false-positive memory
+- Powered by Claude Opus 4.7 · ~$1 per targeted scan
+- Vendor-ready disclosure templates: GHSA · HackerOne · CVE · Bugzilla
+- Research scaffold — live exec validator & exploit development stay private
+- ArXiv preprint in preparation
 
-- 🤗 Hugging Face: [Keyven/german-ocr-3](https://huggingface.co/Keyven/german-ocr-3)
-- 🦙 Ollama: [Keyvan/german-ocr-3](https://ollama.com/Keyvan/german-ocr-3) · [Keyvan/german-ocr-nano](https://ollama.com/Keyvan/german-ocr-nano)
-- 💻 GitHub: [Keyvanhardani/german-ocr](https://github.com/Keyvanhardani/german-ocr) (⭐ 76)
-- 🌐 Hosted API: [german-ocr.de](https://german-ocr.de)
+**📄 German-OCR 3.1 + German-Text 3.1** — local DSGVO document AI
+- More compact, lower VRAM, same strict-JSON quality. Apache 2.0, GGUF.
+- `ollama pull Keyvan/german-ocr-3.1`
+- `ollama pull Keyvan/german-text-3.1`
+- 🤗 Hugging Face: [Keyven](https://huggingface.co/Keyven) · 💻 GitHub: [Keyvanhardani/german-ocr](https://github.com/Keyvanhardani/german-ocr) · 🌐 Hosted/On-Prem: [german-ocr.de](https://german-ocr.de)
+- **Next:** German-OCR Word Plugin — local via Ollama / vLLM / llama.cpp or hosted API
+
+**🔐 April 2026 — 4 CVEs assigned** · 9 more in triage
+- 3× **CVE-2026-40492 / 40493 / 40494** — *CRITICAL* in sail image decoders
+- 1× *MEDIUM* in PhpSpreadsheet
 
 ---
 
 ### Current Projects
 
-- **[German-OCR-3](https://github.com/Keyvanhardani/german-ocr)** — Local vision-language OCR for German documents
+- **[German-OCR 3.1](https://github.com/Keyvanhardani/german-ocr)** — local vision-language OCR for German documents (+ Text model 3.1)
+- **Mythos Research Edition** — autonomous AI vulnerability-research scaffold *(research-only)*
 - **[German-Privacy-Shield](https://github.com/Keyvanhardani/german-privacy-shield)** — GDPR-compliant PII detection & redaction
-- **[German-TTS](https://german-tts.de)** — German text-to-speech system *(WIP / public release soon)*
+- **German-OCR Word Plugin** — local DSGVO document AI inside MS Word *(coming soon)*
+- **[German-TTS](https://german-tts.de)** — German text-to-speech *(WIP / public release soon)*
 - **[Deutschland-Assistent](https://deutschland-assistent.de)** — AI assistant for German document & workflow automation *(coming soon)*
 
 ---
 
 ### Stack
 
-**Languages** · Python · C++ · Go · TypeScript · SQL
-**ML / AI** · PyTorch · TensorFlow · ONNX · Transformers · PEFT/LoRA · vLLM · llama.cpp · Ollama
-**Agentic / LLM** · LangChain · RAG (Weaviate / FAISS / Pinecone) · Prompt Engineering · Fine-tuning (QLoRA / LoRA)
-**Infra** · Docker · FastAPI · CUDA · GPU orchestration · CI/CD · MLOps
-**Security** · OSCP mindset · LLM red-teaming · GDPR-compliant pipelines
+**💻 Languages** · Python · C++ · Go · TypeScript · Rust · SQL · Bash
+
+**🤖 Agentic AI & Multi-Agent Systems**
+Claude Agent SDK · Claude Code · Anthropic MCP · Computer Use · LangGraph · LangChain · AutoGen · CrewAI · DSPy · OpenAI Swarm · ReAct · Reflexion · Tree-of-Thoughts · Planner / Executor · Tool-use & function calling · Multi-agent orchestration · Agent memory (short / long-term) · Self-critique loops · Browser & computer-use agents · Sandboxed code execution · Agentic RAG
+
+**🧠 LLM Apps · RAG · Evaluation**
+Weaviate · FAISS · Pinecone · Qdrant · Chroma · Hybrid + semantic search · Re-ranking · GraphRAG · Knowledge graphs (Neo4j) · Structured outputs / JSON mode · Prompt caching · Guardrails AI · NeMo Guardrails · LangSmith · LangFuse · Phoenix · RAGAS
+
+**🎯 Models · Training · Inference**
+PyTorch · TensorFlow · ONNX · Transformers · PEFT · LoRA · QLoRA · DPO · ORPO · RLHF · TRL · Axolotl · Unsloth · DeepSpeed · FSDP · Hugging Face Hub · Ollama · llama.cpp · vLLM · SGLang · TGI · TensorRT-LLM · GGUF · MLX
+
+**👁️ Vision & Multimodal**
+Vision-Language Models (Qwen-VL · LLaVA · InternVL) · OCR · Layout analysis · Document AI · CLIP / SigLIP embeddings
+
+**🔄 Automation & Workflows**
+n8n · Temporal · Airflow · Prefect · Celery · Event-driven pipelines · Webhooks · Playwright · MS Office / Word automation
+
+**🛠️ Infra & MLOps**
+Docker · Kubernetes · FastAPI · CUDA · GPU orchestration · CI/CD · MLflow · Weights & Biases
+
+**🔐 Security & Red-Team**
+LLM red-teaming · Prompt injection (direct & indirect) · Adversarial ML · Vulnerability research · CVE workflow · GHSA · HackerOne · Bugzilla · GDPR / DSGVO · Threat modeling · OSINT · SBOM
 
 ---
 
@@ -58,4 +110,4 @@ Auf 200+ echten anonymisierten deutschen Rechnungen: **100 % gültiges JSON · 9
 🦙 [Ollama](https://ollama.com/Keyvan)
 🌐 [keyvan.ai](https://keyvan.ai) · [german-ocr.de](https://german-ocr.de)
 
-<sub>Open to selected collaborations in applied AI, vision-language systems, and ML infrastructure.</sub>
+<sub>Open to selected collaborations in agentic AI, applied automation, vision-language systems, and intelligent security.</sub>
