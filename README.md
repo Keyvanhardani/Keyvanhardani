@@ -7,27 +7,7 @@ Munich, Germany · IEEE Member
 **ZM-I Group** — Lead AI Engineer (AI-driven platforms for engineering & industrial applications)
 M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 
-<p>
-  <img alt="Iran (Schir-o-Chorschid)"
-       src="https://upload.wikimedia.org/wikipedia/commons/f/fd/State_flag_of_Iran_%281964%E2%80%931980%29.svg"
-       width="52" height="30" />
-  &nbsp;
-  <sub><img alt="Israel"
-       src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
-       width="48" height="35" /></sub>
-  &nbsp;
-  <img alt="USA"
-       src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
-       width="57" height="30" />
-  &nbsp;
-  <img alt="Deutschland"
-       src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
-       width="50" height="30" />
-  &nbsp;
-  <img alt="Österreich"
-       src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
-       width="50" height="30" />
-</p>
+<p><img alt="Iran (Schir-o-Chorschid)" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/State_flag_of_Iran_%281964%E2%80%931980%29.svg" width="52" height="30" />&nbsp;&nbsp;<img alt="Israel" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" width="48" height="35" />&nbsp;&nbsp;<img alt="USA" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="57" height="30" />&nbsp;&nbsp;<img alt="Deutschland" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="50" height="30" />&nbsp;&nbsp;<img alt="Österreich" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" width="50" height="30" /></p>
 
 ---
 
@@ -80,7 +60,7 @@ M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 **💻 Languages** · Python · C++ · Go · TypeScript · Rust · SQL · Bash
 
 **🤖 Agentic AI & Multi-Agent Systems**
-Claude Agent SDK · Claude Code · Anthropic MCP · Computer Use · LangGraph · LangChain · AutoGen · CrewAI · DSPy · OpenAI Swarm · ReAct · Reflexion · Tree-of-Thoughts · Planner / Executor · Tool-use & function calling · Multi-agent orchestration · Agent memory (short / long-term) · Self-critique loops · Browser & computer-use agents · Sandboxed code execution · Agentic RAG
+LangGraph · LangChain · AutoGen · CrewAI · DSPy · OpenAI Swarm · ReAct · Reflexion · Tree-of-Thoughts · Planner / Executor · Tool-use & function calling · Multi-agent orchestration · Agent memory (short / long-term) · Self-critique loops · Browser-using agents · Sandboxed code execution · Agentic RAG
 
 **🧠 LLM Apps · RAG · Evaluation**
 Weaviate · FAISS · Pinecone · Qdrant · Chroma · Hybrid + semantic search · Re-ranking · GraphRAG · Knowledge graphs (Neo4j) · Structured outputs / JSON mode · Prompt caching · Guardrails AI · NeMo Guardrails · LangSmith · LangFuse · Phoenix · RAGAS
