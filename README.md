@@ -7,7 +7,7 @@ Munich, Germany · IEEE Member
 **ZM-I Group** — Lead AI Engineer (AI-driven platforms for engineering & industrial applications)
 M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 
-<p><img alt="Iran (Schir-o-Chorschid)" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/State_flag_of_Iran_%281964%E2%80%931980%29.svg" width="52" height="30" />&nbsp;&nbsp;<img alt="Israel" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" width="48" height="35" />&nbsp;&nbsp;<img alt="USA" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="57" height="30" />&nbsp;&nbsp;<img alt="Deutschland" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="50" height="30" />&nbsp;&nbsp;<img alt="Österreich" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" width="50" height="30" /></p>
+<img alt="Iran · Israel · USA · Deutschland · Österreich" src="https://raw.githubusercontent.com/Keyvanhardani/Keyvanhardani/main/flags.png" width="199" height="32" />
 
 ---
 
