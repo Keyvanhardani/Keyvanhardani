@@ -7,8 +7,6 @@ Munich, Germany · IEEE Member
 **ZM-I Group** — Lead AI Engineer (AI-driven platforms for engineering & industrial applications)
 M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 
-<img alt="Iran · Israel · USA · Deutschland · Österreich" src="https://raw.githubusercontent.com/Keyvanhardani/Keyvanhardani/main/flag.jpg" width="240" height="40" />
-
 ---
 
 **Research Focus**
