@@ -11,7 +11,7 @@ M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 
 **Research Focus**
 
-- **Sovereign German LLMs** — pretraining from scratch, German tokenizers, license-audited data (Mankei · TU Darmstadt research project)
+- **Sovereign German LLMs** — pretraining from scratch, German tokenizers, license-audited data (Mankei)
 - **Benchmarks & Evaluation** — domain benchmarks with verified ground truth, hallucination-rate metrics (BelegBench, StatikBench)
 - **Agentic AI & Autonomous Systems** — multi-agent orchestration, tool-using LLMs, planner/executor architectures
 - **AI Automation** — end-to-end workflow automation, document → decision pipelines, RPA × LLM
@@ -27,7 +27,6 @@ M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 **🏔️ Mankei — launching July 26, 2026** — sovereign German LLM family, pretrained from scratch
 - German-first tokenizer, license-audited training data, verified synthetic data — no closed-API distillation
 - Apache 2.0 · runs fully local (CPU-compatible) · dialect variants on the roadmap
-- Official research project at **TU Darmstadt** (AI for Engineering Systems)
 - 🌐 [mankei.ai](https://mankei.ai)
 
 **🧾 Belegant-4B + BelegBench — July 2026, open source** — Swiss on-prem receipt & QR-invoice AI (DE / FR / IT)
@@ -57,7 +56,7 @@ M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 
 ### Current Projects
 
-- **[Mankei](https://mankei.ai)** — sovereign German LLM family, pretrained from scratch · TU Darmstadt research project *(launch: July 26, 2026)*
+- **[Mankei](https://mankei.ai)** — sovereign German LLM family, pretrained from scratch *(launch: July 26, 2026)*
 - **[Belegant](https://github.com/Keyvanhardani/belegant)** / **[BelegBench](https://github.com/Keyvanhardani/belegbench)** — Swiss on-prem QR-invoice AI with deterministic verification + the benchmark behind it
 - **StatikBench** — first German-language LLM benchmark for building norms & norm-based structural design, with solver-verified ground truth · TU Darmstadt research project *(release planned)*
 - **[German-OCR 3.1](https://github.com/Keyvanhardani/german-ocr)** — local vision-language OCR for German documents (+ Text model 3.1)
