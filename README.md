@@ -11,6 +11,8 @@ M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 
 **Research Focus**
 
+- **Sovereign German LLMs** — pretraining from scratch, German tokenizers, license-audited data (Mankei · TU Darmstadt research project)
+- **Benchmarks & Evaluation** — domain benchmarks with verified ground truth, hallucination-rate metrics (BelegBench, StatikBench)
 - **Agentic AI & Autonomous Systems** — multi-agent orchestration, tool-using LLMs, planner/executor architectures
 - **AI Automation** — end-to-end workflow automation, document → decision pipelines, RPA × LLM
 - **Intelligent Security Systems** — ML for threat detection, LLM red-teaming, adversarial robustness
@@ -21,6 +23,17 @@ M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 ---
 
 ### 🆕 Recent Highlights
+
+**🏔️ Mankei — launching July 26, 2026** — sovereign German LLM family, pretrained from scratch
+- German-first tokenizer, license-audited training data, verified synthetic data — no closed-API distillation
+- Apache 2.0 · runs fully local (CPU-compatible) · dialect variants on the roadmap
+- Official research project at **TU Darmstadt** (AI for Engineering Systems)
+- 🌐 [mankei.ai](https://mankei.ai)
+
+**🧾 Belegant-4B + BelegBench — July 2026, open source** — Swiss on-prem receipt & QR-invoice AI (DE / FR / IT)
+- **84.7 % field exact match at 0.0 % hallucination** (BelegBench v1, n = 300) — every field passes a deterministic verification layer or gets flagged, never silently emitted
+- First public benchmark for Swiss QR-invoices (QR-IBAN, QR-Referenz, MWST 8.1/2.6/3.8 %, CHE-UID)
+- `pip install belegant` · 🤗 [belegant-4b](https://huggingface.co/Keyven/belegant-4b) · 💻 [belegant](https://github.com/Keyvanhardani/belegant) · [belegbench](https://github.com/Keyvanhardani/belegbench)
 
 **🛡️ Mythos Research Edition v2.0** — outside-in replication of Anthropic's *Mythos Preview / Project Glasswing*
 - 8-phase pipeline (was 7) — build-sandbox · adversarial self-challenge · cross-session false-positive memory
@@ -44,6 +57,9 @@ M.Sc. Cybersecurity (HDBW Munich) · OSCP · CEH · 10+ CVE credits
 
 ### Current Projects
 
+- **[Mankei](https://mankei.ai)** — sovereign German LLM family, pretrained from scratch · TU Darmstadt research project *(launch: July 26, 2026)*
+- **[Belegant](https://github.com/Keyvanhardani/belegant)** / **[BelegBench](https://github.com/Keyvanhardani/belegbench)** — Swiss on-prem QR-invoice AI with deterministic verification + the benchmark behind it
+- **StatikBench** — first German-language LLM benchmark for building norms & norm-based structural design, with solver-verified ground truth · TU Darmstadt research project *(release planned)*
 - **[German-OCR 3.1](https://github.com/Keyvanhardani/german-ocr)** — local vision-language OCR for German documents (+ Text model 3.1)
 - **Mythos Research Edition** — autonomous AI vulnerability-research scaffold *(research-only)*
 - **[German-Privacy-Shield](https://github.com/Keyvanhardani/german-privacy-shield)** — GDPR-compliant PII detection & redaction
