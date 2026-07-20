@@ -97,7 +97,6 @@ LLM red-teaming · Prompt injection (direct & indirect) · Adversarial ML · Vul
 
 ### Contact
 
-📧 [hardani@hotmail.de](mailto:hello@keyvan.ai)
 🔗 [LinkedIn](https://linkedin.com/in/keyvanhardani)
 🤗 [HuggingFace](https://huggingface.co/Keyven)
 🦙 [Ollama](https://ollama.com/Keyvan)
